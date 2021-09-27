@@ -1,2 +1,2 @@
-# PRO-C22-SA-Boilerplate_code
-Boilerplate code for student  
+# Codigo-de-la-plantilla-PRO-C22-AA
+Código de la plantilla para el alumno  
